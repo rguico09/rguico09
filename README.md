@@ -2,9 +2,9 @@
 
 ## About Me
 
-🌐 Aspiring Computer Scientist passionate about AI/ML and Data Science.
-📚 First year BSc Computer Science student at the University of Bath, with a strong mathematical foundation from A-Level Maths and the Eton Summer University Programme.
-🏀 Outside of tech, I play basketball for the University's Men's 1st Team
+* 🌐 Aspiring Computer Scientist passionate about AI/ML and Data Science.
+* 📚 First year BSc Computer Science student at the University of Bath, with a strong mathematical foundation from A-Level Maths and the Eton Summer University Programme.
+* 🏀 Outside of tech, I play basketball for the University's Men's 1st Team
 
 ---
 
